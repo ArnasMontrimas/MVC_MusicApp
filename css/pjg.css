@@ -1,0 +1,145 @@
+/* 
+    Created on : 14-Sep-2015, 14:04:22
+    Author     : Peter Gosling
+*/
+
+body
+{
+    background-color: gray;
+    color: blue;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header
+{
+    border-bottom: .5em black solid;
+    
+}
+
+aside
+{
+    float: left;
+    width: 25%;
+    background-color: silver;
+    border-radius: 2em;
+    min-height: 20em;
+}
+
+main
+{
+    float: left;
+    width: 75%;
+    padding: 2em;
+}
+
+.tick
+{
+    color: red;
+    font-size: 2em;
+}
+
+footer
+{
+    clear: left;
+    border-bottom: .5em black solid;
+}
+
+h1
+{
+   color: green;
+   width: 100%;
+   text-align: center;
+}
+
+h2
+{
+   color: green;
+   width: 100%;
+   text-align: center;
+}
+.blue
+{
+    color: blue;
+}
+
+#myid
+{
+    color: brown;
+}
+
+label
+{
+    display:  inline-block;
+    width: 20em;
+}
+
+.submit
+{
+    margin-left: 15em;
+}
+
+.code
+{
+    width: 200px;
+}
+
+.name
+{
+    width:200px;
+}
+
+.nett
+{
+    width:100px;
+}
+
+.incl
+{
+    width:100px;
+}
+
+.ralign
+{
+    text-align: right;
+}
+
+table, tr
+{
+    border: solid grey .25em;
+    padding-left: 2em;
+}
+
+td, th
+{
+    border: solid grey .1em;
+    
+}
+
+section
+{
+    padding-left:  2em;
+    background-color: silver;
+    border-radius: 2em;
+    min-height: 20em;
+    width: 70%;
+    float: right;
+}
+
+.last_paragraph
+{
+    width: 100%;
+    text-align: center;
+}
+
+select, input
+{
+    width: 15em;
+}
+
+.copyright
+{
+    font-size: 1em;
+    float: right;
+    padding-right: 2em;
+}
