@@ -11,8 +11,8 @@
  //Need the following files to connect TO DB and to make Functions available
 
     require "../model/database.php";
-    require "../model/product_db.php";
-    require "../model/category_db.php";
+    require "../model/Product_db.php";
+    require "../model/Category_db.php";
 
     //A Variable 'action' is needed, it can be passed by POST, GET or not at all
     //If not at all then make action = default of list_products
